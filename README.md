@@ -6,11 +6,11 @@ This repository contains all manually labelled data from the GermEval-2018 share
 
 The GermEval-2018 data consists of two files:
 
-1) germeval2018.training.txt
+1. germeval2018.training.txt
 
 This file represents the training data from the shared task. It contains the annotation for both tasks of the shared task.
 
-2) germeval2018.test.txt
+1. germeval2018.test.txt
 
 This file represents the test data from the shared task. It contains the annotation for both tasks of the shared task.
 

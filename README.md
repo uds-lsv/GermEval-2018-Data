@@ -37,7 +37,7 @@ https://projects.fzai.h-da.de/iggsa/
 
 # contact information
 
-Please direct that you have about this data to the organizers of the shared task:
+Please direct any questions that you have about this data to the organizers of the shared task:
 
 Josef Ruppenhofer  email: ruppenhofer@ids-mannheim.de 
 

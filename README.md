@@ -24,9 +24,21 @@ guidelines-iggsa-shared.pdf
 
 # usage
 
-If you publish any work using the GermEval-2018 data, please cite the following publication:
+lIf you publish any work using the GermEval-2018 data, please cite the following publication:
 
 Michael Wiegand, Melanie Siegel, and Josef Ruppenhofer: "Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language", in Proceedings of the GermEval, 2018, Vienna, Austria.
+
+# evaluation tool
+
+The file
+
+evaluationScriptGermeval2018.pl
+
+represents the evaluation tool. It can be used to evaluated the predictions for both tasks of the shared task.
+
+In order to obtain further information on the usage of that tool please type:
+
+`perl evaluationScriptGermeval2018.pl --help`
 
 
 # further information

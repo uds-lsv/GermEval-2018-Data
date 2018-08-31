@@ -6,11 +6,11 @@ This repository contains all manually labelled data from the GermEval-2018 share
 
 The GermEval-2018 data consists of two files:
 
-1. germeval2018.training.txt
+1) *germeval2018.training.txt*
 
 This file represents the training data from the shared task. It contains the annotation for both tasks of the shared task.
 
-1. germeval2018.test.txt
+2) *germeval2018.test.txt*
 
 This file represents the test data from the shared task. It contains the annotation for both tasks of the shared task.
 
@@ -19,7 +19,7 @@ This file represents the test data from the shared task. It contains the annotat
 
 Detailed guidelines regarding the annotation scheme of the data can be found in the following file:
 
-guidelines-iggsa-shared.pdf
+*guidelines-iggsa-shared.pdf*
 
 
 # usage
@@ -32,7 +32,7 @@ Michael Wiegand, Melanie Siegel, and Josef Ruppenhofer: "Overview of the GermEva
 
 The file
 
-evaluationScriptGermeval2018.pl
+*evaluationScriptGermeval2018.pl*
 
 represents the evaluation tool. It can be used to evaluated the predictions for both tasks of the shared task.
 

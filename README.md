@@ -14,8 +14,6 @@ This file represents the training data from the shared task. The file contains t
 
 This file represents the test data from the shared task. The file contains the annotation for both tasks of the shared task.
 
-More information about the shared task can be found on the website of the task:
-https://projects.fzai.h-da.de/iggsa/
 
 # guidelines
 
@@ -29,6 +27,13 @@ guidelines-iggsa-shared.pdf
 If you publish any work using the GermEval-2018 data, please cite the following publication:
 
 Michael Wiegand, Melanie Siegel, and Josef Ruppenhofer: "Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language", in Proceedings of the GermEval, 2018, Vienna, Austria.
+
+
+# furter information
+
+More information about the shared task can be found on the website of the task:
+https://projects.fzai.h-da.de/iggsa/
+
 
 # contact information
 

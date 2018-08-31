@@ -1,4 +1,4 @@
-# GermEval-2018 data
+# GermEval-2018 data repository
 
 This repository contains all manually labelled data from the GermEval-2018 shared task.
 
@@ -29,7 +29,7 @@ If you publish any work using the GermEval-2018 data, please cite the following 
 Michael Wiegand, Melanie Siegel, and Josef Ruppenhofer: "Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language", in Proceedings of the GermEval, 2018, Vienna, Austria.
 
 
-# furter information
+# further information
 
 More information about the shared task can be found on the website of the task:
 https://projects.fzai.h-da.de/iggsa/

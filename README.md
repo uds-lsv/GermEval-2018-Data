@@ -2,9 +2,9 @@
 
 This repository contains all manually labelled data from the GermEval-2018 shared task.
 
-# contents
+# data
 
-The GermEval-2018 consists of two files:
+The GermEval-2018 data consists of two files:
 
 1) germeval2018.training.txt
 
@@ -14,9 +14,14 @@ This file represents the training data from the shared task. The file contains t
 
 This file represents the test data from the shared task. The file contains the annotation for both tasks of the shared task.
 
-
 More information about the shared task can be found on the website of the task:
 https://projects.fzai.h-da.de/iggsa/
+
+# guidelines
+
+Detailed guidelines regarding the annotation scheme of the data can be found in the following file:
+
+guidelines-iggsa-shared.pdf
 
 
 # usage

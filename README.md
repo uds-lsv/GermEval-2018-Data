@@ -1,4 +1,4 @@
-#GermEval-2018 data
+# GermEval-2018 data
 
 This repository contains all manually labelled data from the GermEval-2018 shared task.
 
@@ -30,7 +30,9 @@ Michael Wiegand, Melanie Siegel, and Josef Ruppenhofer: "Overview of the GermEva
 Please direct that you have about this data to the organizers of the shared task:
 
 Josef Ruppenhofer  email: ruppenhofer@ids-mannheim.de 
+
 Melanie Siegel	   email: melanie.siegel@h-da.de
+
 Michael Wiegand	    email: michael.wiegand@lsv.uni-saarland.de
 
 

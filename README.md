@@ -41,6 +41,14 @@ In order to obtain further information on the usage of that tool please type:
 `perl evaluationScriptGermeval2018.pl --help`
 
 
+# survey
+
+All participants had to complete an online survey as part of their submission.
+The results of the survey are available in the file
+
+*survey.pdf*
+
+
 # further information
 
 More information about the shared task can be found on the website of the task:

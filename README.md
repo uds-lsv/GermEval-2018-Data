@@ -51,7 +51,7 @@ The complete evaluation of all runs submitted by participants can be found in th
 # survey
 
 All participants had to complete an online survey as part of their submission.
-The results of the survey are available in the file
+The results of the survey are available in the file:
 
 *survey.pdf*
 

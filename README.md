@@ -41,6 +41,13 @@ In order to obtain further information on the usage of that tool please type:
 `perl evaluationScriptGermeval2018.pl --help`
 
 
+# results
+
+The complete evaluation of all runs submitted by participants can be found in the file:
+
+*results.pdf*
+
+
 # survey
 
 All participants had to complete an online survey as part of their submission.

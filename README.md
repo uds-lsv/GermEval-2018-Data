@@ -1,10 +1,11 @@
 # GermEval-2018 data repository
 
-This repository contains all manually labelled data from the GermEval-2018 shared task.
+This repository contains all different types of data from the GermEval-2018 shared task.
 
-# data
 
-The GermEval-2018 data consists of two files:
+# manually labelled training and test data
+
+The manually labelled GermEval-2018 data consists of two files:
 
 1) *germeval2018.training.txt*
 
@@ -28,6 +29,7 @@ lIf you publish any work using the GermEval-2018 data, please cite the following
 
 Michael Wiegand, Melanie Siegel, and Josef Ruppenhofer: "Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language", in Proceedings of the GermEval, 2018, Vienna, Austria.
 
+
 # evaluation tool
 
 The file
@@ -46,6 +48,13 @@ In order to obtain further information on the usage of that tool please type:
 The complete evaluation of all runs submitted by participants can be found in the file:
 
 *results.pdf*
+
+
+# submissions
+
+The submissions of all participants of both tasks can be found in the package:
+
+*submissions.tgz*
 
 
 # survey

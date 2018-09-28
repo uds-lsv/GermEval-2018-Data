@@ -52,7 +52,7 @@ The complete evaluation of all runs submitted by participants can be found in th
 
 # submissions
 
-The submissions of all participants of both tasks can be found in the package:
+The submissions of all participants for both tasks can be found in the package:
 
 *submissions.tgz*
 
